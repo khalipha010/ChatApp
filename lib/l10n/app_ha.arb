@@ -1,0 +1,15 @@
+{
+  "language": "Hausa",
+  "email": "email din ka",
+  "password" : "Saka rubutun sirri",
+  "forgot_password": "Amanta Rubutun Sirri?",
+  "sign_in": "Shiga",
+  "login_google": "Shiga Da Google",
+  "dont_account" : "Ba account?",
+  "register": "Yi rigister",
+  "user_name": "Suna",
+  "sign_up": "Yi rigister",
+  "signup_google": "Yi rigister da account na Google",
+  "already_account": "Ana da account",
+  "singin_now" : "Ashiga yanzu"
+}

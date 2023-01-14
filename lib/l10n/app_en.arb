@@ -1,0 +1,162 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Enter email address"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Enter your password"
+  },
+  "forgot_password": "Forgot Password?",
+  "@forgot_password": {
+    "description": "Forgot Password"
+  },
+  "sign_in": "Sign In",
+  "@sign_in": {
+    "description": " Login"
+  },
+  "login_google": "Login With Google",
+  "@login_google": {
+    "description": "Login With Google"
+  },
+  "dont_account": "Don't have account? ",
+  "@don't_account": {
+    "description": "Don't have account?"
+  },
+  "register": "Register now",
+  "@register": {
+    "description": "Register now"
+  },
+  "user_name": "Username",
+  "@user_name": {
+    "description": "Username"
+  },
+  "sign_up": "Sign Up",
+  "@sign_up": {
+    "description": "Sign Up"
+  },
+  "signup_google": "Signup With Google",
+  "@signup_google": {
+    "description": "Signup With Google"
+  },
+  "already_account": "Already have account? ",
+  "@already_account": {
+    "description": "Already have account?"
+  },
+  "signin_now": "SignIn now",
+  "@signin_now": {
+    "description": "SignIn now"
+  },
+  "edit_profile": "Edit Profile",
+  "@edit_profile": {
+    "description": "Edit Profile"
+  },
+  "about_dev": "About Dev",
+  "@about_dev": {
+    "description": "About Dev"
+  },
+  "quiz_game": "Quiz Game",
+  "@quiz_game": {
+    "description": "Quiz Game"
+  },
+  "world_time": "World Time",
+  "@world_time": {
+    "description": "World Time"
+  },
+  "switch_language": "Switch Language",
+  "@switch_language": {
+    "description": "Switch Language"
+  },
+  "git_gub": "Git Hub",
+  "@git_hub": {
+    "description": "Git Hub"
+  },
+  "donate": "Donate",
+  "@donate": {
+    "description": "Donate"
+  },
+  "log_out": "LogOut",
+  "@log_out": {
+    "description": "LogOut"
+  },
+  "delete_message": "Delete Message",
+  "@quiz_game": {
+    "description": "Delete Message"
+  },
+  "block_user": "Block User",
+  "@block_user": {
+    "description": "Block User"
+  },
+  "welcome_quizzler": "Welcome To Quizzler",
+  "@welcome_quizzler": {
+    "description": "Welcome Quizzler"
+  },
+  "welcome_world": "Welcome To World Time",
+  "@welcome_world": {
+    "description": "Welcome To World Time"
+  },
+  "edit_location": "Edit Location",
+  "@edit_location": {
+    "description": "Edit Location"
+  },
+  "continue_quizzler": "Continue To Quizzler",
+  "@continue_quizzler": {
+    "description": "Continue To Quizzler"
+  },
+  "continue_worldtime": "Continue To World Time",
+  "@continue_worldtime": {
+    "description": "Continue To World Time"
+  },
+  "emoji_text": "please click the Search Button to add a friend and chat.",
+  "@emoji_text": {
+    "description": "please click the Search Button to add a friend and chat."
+  },
+  "email_validation": "Please enter a valid email",
+  "@email_validation": {
+    "description": "Email Validation"
+  },
+  "password_validation": "Password must be more than six characters",
+  "@password_validation": {
+    "description": "Password Validation"
+  },
+  "username_validation": "Please enter username",
+  "@username_validation": {
+    "description": "Username Validation"
+  },
+  "reset_appbar": "Reset Password",
+  "@reset_appbar": {
+    "description": "Reset Password"
+  },
+  "reset_body_text": "Please enter your registered email to reset your password",
+  "@reset_body_text": {
+    "description": "Text of Reset"
+  },
+  "reset_button": "Send Password Reset Link",
+  "@reset_button": {
+    "description": "Reset Button Text"
+  },
+  "reset_cont_login": "Continue Login? ",
+  "@reset_cont_login": {
+    "description": "Continue to login"
+  },
+  "password_reset_done": "Password Reset Link Has Been Sent To Your Email Successfully ✅",
+  "@password_reset_done": {
+    "description": "password reset done"
+  },
+  "choose_location": "Choose Location ",
+  "@choose_location": {
+    "description": "Choose Location"
+  },
+  "about_profile": "About",
+  "@about_profile": {
+    "description": "About Profile"
+  },
+  "about_save": "Save",
+  "@about_save": {
+    "description": "Save"
+  }
+}
